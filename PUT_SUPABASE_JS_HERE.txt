@@ -1,0 +1,1 @@
+Put supabase.js here. See SETUP.md step 7.
